@@ -3,12 +3,12 @@ Weather UI is my attempt at a small project where I can focus on learning React 
 The application is pretty straightforward: the goal is to allow users to to input a city and a state and be able to grab the data from an API
 and display it for the user.
 
-Takeaways:
-    React is pretty simple and fun in terms of usability and readability
-    The functional piece of the application was pretty easy to understand (how components receive state changes, updated props, etc)
-    There may come a day when I understand how UI is rendered based on elements/class names/tags but it's not today
+Takeaways:<br />
+    - React is pretty simple and fun in terms of usability and readability <br />
+    - The functional piece of the application was pretty easy to understand (how components receive state changes, updated props, etc)<br />
+    - There may come a day when I understand how UI is rendered based on elements/class names/tags but it's not today<br />
 
-
+![alt text](http://github.com/fernando-napier/weather-ui/public/ui.png)
 
 ##
 
