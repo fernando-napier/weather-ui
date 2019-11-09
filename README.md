@@ -10,7 +10,7 @@ Takeaways:<br />
 
 ##
 
-Here's a current screenshot of the application
+Here's a current screenshot of the application <br>
 ![alt text](https://github.com/fernando-napier/weather-ui/blob/master/public/ui.PNG)
 
 ##
