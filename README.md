@@ -8,6 +8,9 @@ Takeaways:<br />
     - The functional piece of the application was pretty easy to understand (how components receive state changes, updated props, etc)<br />
     - There may come a day when I understand how UI is rendered based on elements/class names/tags but it's not today<br />
 
+##
+
+Here's a current screenshot of the application
 ![alt text](https://github.com/fernando-napier/weather-ui/blob/master/public/ui.PNG)
 
 ##
